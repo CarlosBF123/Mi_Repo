@@ -8,3 +8,21 @@ use el comando:
 ```
 > git clone https://github.com/CarlosBF123/Mi_Repo.git
 ```
+
+ya hice mi primer push
+
+```
+> git push origin main
+```
+
+ya use el comando fetch
+
+```
+> git fetch
+```
+
+puede bajar los cambios realizados en la rama **develop**
+
+```
+> git pull origin develop
+```
