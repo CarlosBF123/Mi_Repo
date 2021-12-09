@@ -15,8 +15,14 @@ ya hice mi primer push
 > git push origin main
 ```
 
-ya use el comando fetch 
+ya use el comando fetch
 
 ```
 > git fetch
+```
+
+puede bajar los cambios realizados en la rama **develop**
+
+```
+> git pull origin develop
 ```
