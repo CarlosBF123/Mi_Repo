@@ -8,3 +8,9 @@ use el comando:
 ```
 > git clone https://github.com/CarlosBF123/Mi_Repo.git
 ```
+
+ya hice mi primer push
+
+```
+> git push origin main
+```
